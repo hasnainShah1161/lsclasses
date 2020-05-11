@@ -1,0 +1,5 @@
+.MuiDialog-paperWidthSm {
+  min-width: 500px;
+  min-height: 200px;
+  max-height: fit-content;
+}
